@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **I play guitar and also compose music**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
