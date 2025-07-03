@@ -68,4 +68,4 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deirlv&show_icons=true&locale=en&layout=compact" alt="deirlv" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deirluv&show_icons=true&locale=en&layout=compact" alt="deirluv" /></p>
