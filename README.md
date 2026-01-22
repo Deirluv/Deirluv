@@ -1,7 +1,7 @@
 <h1 align="center">Hi,I'm Timur</h1>
 <h3 align="center">A passionate backend developer from Ukraine currently living in Germany</h3>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **timurzubalwork@gmail.com**
 
