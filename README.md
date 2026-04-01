@@ -70,3 +70,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deirluv&show_icons=true&locale=en&layout=compact" alt="deirluv" /></p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deirluv)
+https://githubcard.com/g/FGPBaKoh.svg
